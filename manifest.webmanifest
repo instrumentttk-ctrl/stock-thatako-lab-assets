@@ -1,0 +1,22 @@
+{
+  "name": "Stock Thatako Lab",
+  "short_name": "Stock Thatako",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#F7F9FC",
+  "theme_color": "#FFFFFF",
+  "icons": [
+    {
+      "src": "https://raw.githubusercontent.com/instrumentttk-ctrl/stock-thatako-lab-assets/main/stock-thatako-lab-icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://raw.githubusercontent.com/instrumentttk-ctrl/stock-thatako-lab-assets/main/stock-thatako-lab-icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
